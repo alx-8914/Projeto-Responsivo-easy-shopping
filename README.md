@@ -9,3 +9,7 @@
   <h2>Desenvolvido nas Aulas do <a href="https://rodolfomori.com.br/devcub">DevClub</a> com o Mentor Rodolfo Mori.</h2>
   <br>
 </div>
+<p>Modo Desktop:</p>
+<img src="https://github.com/alx-8914/Projeto-Responsivo-easy-shopping/blob/main/Desktop%20Girl%20cell.png?raw=true">
+<p>Modo Responsive Mobile:</p>
+<img src="https://github.com/alx-8914/Projeto-Responsivo-easy-shopping/blob/main/Responsidade%20para%20celulares.png?raw=true">
